@@ -1,0 +1,97 @@
+{
+  "app": "mantenimiento",
+  "apps": [
+    {
+      "id": "tizen-tube",
+      "name": "Tizen Tube",
+      "version": "",
+      "file": "tizen-tube.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/tizen-tube.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    },
+    {
+      "id": "xuper-hydra",
+      "name": "Xuper Hydra",
+      "version": "",
+      "file": "Xuper-Hydra.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Xuper-Hydra.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    },
+    {
+      "id": "vegeta-tv",
+      "name": "Vegeta TV",
+      "version": "",
+      "file": "Vegeta-TV.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Vegeta-TV.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    },
+    {
+      "id": "clinxuper",
+      "name": "Clinxuper",
+      "version": "",
+      "file": "Xuper-Crystal-Clear.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Xuper-Crystal-Clear.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    },
+    {
+      "id": "plpro",
+      "name": "Plpro",
+      "version": "",
+      "file": "pl-pro.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/pl-pro.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    },
+    {
+      "id": "wiwyxuper",
+      "name": "Wiwyxuper",
+      "version": "",
+      "file": "Wiwy-Xuper.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Wiwy-Xuper.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    },
+    {
+      "id": "nova",
+      "name": "Nova",
+      "version": "",
+      "file": "NOVA.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/NOVA.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    },
+    {
+      "id": "downloader",
+      "name": "Downloader",
+      "version": "",
+      "file": "Downloader.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Downloader.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    },
+    {
+      "id": "magma-lite",
+      "name": "Magma Lite",
+      "version": "",
+      "file": "Magma-Lite-.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Magma-Lite-.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    }
+  ],
+  "list_url": "https://raw.githubusercontent.com/eddynariob-create/mis-apks/main/apps.json",
+  "updated": "2026-11-08"
+}
