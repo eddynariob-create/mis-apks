@@ -1,0 +1,77 @@
+{
+  "app": "mantenimiento",
+  "apps": [
+    {
+      "id": "tizen-tube",
+      "name": "Tizen Tube",
+      "version": "",
+      "file": "tizen-tube.apk",
+      "apk_url": "https://github.com/TU_USUARIO/mis-apks/releases/download/v1/tizen-tube.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    },
+    {
+      "id": "xuper-hydra",
+      "name": "Xuper Hydra",
+      "version": "",
+      "file": "xuper-hydra.apk",
+      "apk_url": "https://github.com/TU_USUARIO/mis-apks/releases/download/v1/xuper-hydra.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    },
+    {
+      "id": "vegeta-tv",
+      "name": "Vegeta TV",
+      "version": "",
+      "file": "vegeta-tv.apk",
+      "apk_url": "https://github.com/TU_USUARIO/mis-apks/releases/download/v1/vegeta-tv.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    },
+    {
+      "id": "clinxuper",
+      "name": "Clinxuper",
+      "version": "",
+      "file": "clinxuper.apk",
+      "apk_url": "https://github.com/TU_USUARIO/mis-apks/releases/download/v1/clinxuper.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    },
+    {
+      "id": "plpro",
+      "name": "Plpro",
+      "version": "",
+      "file": "plpro.apk",
+      "apk_url": "https://github.com/TU_USUARIO/mis-apks/releases/download/v1/plpro.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    },
+    {
+      "id": "wiwyxuper",
+      "name": "Wiwyxuper",
+      "version": "",
+      "file": "wiwyxuper.apk",
+      "apk_url": "https://github.com/TU_USUARIO/mis-apks/releases/download/v1/wiwyxuper.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    },
+    {
+      "id": "nova",
+      "name": "Nova",
+      "version": "",
+      "file": "nova.apk",
+      "apk_url": "https://github.com/TU_USUARIO/mis-apks/releases/download/v1/nova.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": ""
+    }
+  ],
+  "list_url": "https://raw.githubusercontent.com/TU_USUARIO/mis-apks/main/apps.json",
+  "updated": "2026-11-08"
+}
