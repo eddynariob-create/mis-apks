@@ -26,8 +26,7 @@
       "package_name": "com.xuper.netxxus",
       "icon_url": "",
       "needs_uninstall_first": false,
-      "uninstall_image_url": "",
-      "en_mantenimiento": true
+      "uninstall_image_url": ""
     },
     {
       "id": "vegeta-tv",
@@ -43,18 +42,17 @@
       "uninstall_image_url": ""
     },
     {
-      "id": "xuper-focuz",
-      "name": "Xuper Focuz",
+      "id": "wiwyxuper",
+      "name": "WiwyXuper",
       "version": "4.34.4",
-      "file": "Xuper-Focuz.apk",
-      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Xuper-Focuz.apk",
+      "file": "Wiwy-Xuper.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Wiwy-Xuper.apk",
       "downloader_code": "",
       "downloader_url": "",
-      "package_name": "com.lite.fczx",
+      "package_name": "com.xuper.wiwyxuper",
       "icon_url": "",
       "needs_uninstall_first": false,
-      "uninstall_image_url": "",
-      "desinstalar_previas": true
+      "uninstall_image_url": ""
     },
     {
       "id": "plpro",
@@ -127,7 +125,7 @@
   "updated": "2026-11-08",
   "logo_url": "",
   "logo_file": "logo.png — guarda tu logo en app/src/main/res/drawable/logo.png",
-  "mantenimiento_version": "1.2",
+  "mantenimiento_version": "1.3",
   "mantenimiento_apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/mantenimiento.apk",
-  "mantenimiento_novedad": "Aviso sin internet, Xuper Focuz y Xuper NF nuevas, Hydra en mantenimiento y código más seguro."
+  "mantenimiento_novedad": "Wiwy vuelve a la lista en lugar de Focuz, botones para reportar fallos y contactar al creador, video de cómo desinstalar en NF, y Hydra vuelve a la lista."
 }
