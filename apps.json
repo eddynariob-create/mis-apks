@@ -125,7 +125,7 @@
   "updated": "2026-11-08",
   "logo_url": "",
   "logo_file": "logo.png — guarda tu logo en app/src/main/res/drawable/logo.png",
-  "mantenimiento_version": "1.3",
+  "mantenimiento_version": "1.4",
   "mantenimiento_apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/mantenimiento.apk",
-  "mantenimiento_novedad": "Wiwy vuelve a la lista en lugar de Focuz, botones para reportar fallos y contactar al creador, video de cómo desinstalar en NF, y Hydra vuelve a la lista."
+  "mantenimiento_novedad": "Arreglo: Wiwy ya detecta que está instalada, la app ya nota cuando vuelve el internet y Reportar fallos deja escribir el problema."
 }
