@@ -78,8 +78,7 @@
       "package_name": "com.android.mgstxNF",
       "icon_url": "",
       "needs_uninstall_first": false,
-      "uninstall_image_url": "",
-      "desinstalar_previas": true
+      "uninstall_image_url": ""
     },
     {
       "id": "nova",
@@ -125,7 +124,7 @@
   "updated": "2026-11-08",
   "logo_url": "",
   "logo_file": "logo.png — guarda tu logo en app/src/main/res/drawable/logo.png",
-  "mantenimiento_version": "1.4",
+  "mantenimiento_version": "1.5",
   "mantenimiento_apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/mantenimiento.apk",
-  "mantenimiento_novedad": "Arreglo: Wiwy ya detecta que está instalada, la app ya nota cuando vuelve el internet y Reportar fallos deja escribir el problema."
+  "mantenimiento_novedad": "Nuevo diseño: fondo de red neuronal y botones de metal con circuitos; Errores corregidos; Mayor fluidez de la app"
 }
