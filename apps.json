@@ -124,7 +124,7 @@
   "updated": "2026-11-08",
   "logo_url": "",
   "logo_file": "logo.png — guarda tu logo en app/src/main/res/drawable/logo.png",
-  "mantenimiento_version": "1.5",
+  "mantenimiento_version": "1.6",
   "mantenimiento_apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/mantenimiento.apk",
-  "mantenimiento_novedad": "Nuevo diseño: fondo de red neuronal y botones de metal con circuitos; Errores corregidos; Mayor fluidez de la app"
+  "mantenimiento_novedad": "Arreglo: los botones vuelven a su tamaño de antes."
 }
