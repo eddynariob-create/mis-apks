@@ -124,7 +124,7 @@
   "updated": "2026-11-08",
   "logo_url": "",
   "logo_file": "logo.png — guarda tu logo en app/src/main/res/drawable/logo.png",
-  "mantenimiento_version": "1.6",
+  "mantenimiento_version": "1.7",
   "mantenimiento_apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/mantenimiento.apk",
-  "mantenimiento_novedad": "Arreglo: los botones vuelven a su tamaño de antes."
+  "mantenimiento_novedad": "Se quitó el botón de Contacta al creador; El nombre y la versión de la app se ven en dorado en las ventanas de instalar y de ya actualizado; La ventana de actualizar ahora solo dice que se hicieron mejoras para que la app funcione mejor y más fluida; Ahora la app baja e instala las actualizaciones sola, sin Downloader; Los botones de Cómo desinstalar y Reportar fallos van con todas las letras en plata."
 }
