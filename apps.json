@@ -26,8 +26,7 @@
       "package_name": "com.xuper.netxxus",
       "icon_url": "",
       "needs_uninstall_first": false,
-      "uninstall_image_url": "",
-      "en_mantenimiento": true
+      "uninstall_image_url": ""
     },
     {
       "id": "vegeta-tv",
@@ -53,8 +52,7 @@
       "package_name": "com.xuper.wiwyxuper",
       "icon_url": "",
       "needs_uninstall_first": false,
-      "uninstall_image_url": "",
-      "en_mantenimiento": true
+      "uninstall_image_url": ""
     },
     {
       "id": "plpro",
@@ -83,6 +81,19 @@
       "uninstall_image_url": ""
     },
     {
+      "id": "fa-plus",
+      "name": "F.A Plus+",
+      "version": "1.4.4",
+      "file": "FA-Plus.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/FA-Plus.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": "com.dpsteam.filmplus",
+      "icon_url": "",
+      "needs_uninstall_first": false,
+      "uninstall_image_url": ""
+    },
+    {
       "id": "nova",
       "name": "Nova",
       "version": "1.2.9",
@@ -96,14 +107,14 @@
       "uninstall_image_url": ""
     },
     {
-      "id": "downloader",
-      "name": "Downloader",
-      "version": "2.0.3-ForGoogleAndroidDevices",
-      "file": "Downloader.apk",
-      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Downloader.apk",
+      "id": "xuper-hydra-2",
+      "name": "Xuper Hydra 2",
+      "version": "4.99.20",
+      "file": "Xuper-Hydra-2.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Xuper-Hydra-2.apk",
       "downloader_code": "",
       "downloader_url": "",
-      "package_name": "com.esaba.downloader",
+      "package_name": "com.android.mgstv",
       "icon_url": "",
       "needs_uninstall_first": false,
       "uninstall_image_url": ""
@@ -122,16 +133,16 @@
       "uninstall_image_url": ""
     },
     {
-      "id": "fa-plus",
-      "name": "F.A Plus+",
-      "version": "1.4.4",
-      "file": "FA-Plus.apk",
-      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/FA-Plus.apk",
+      "id": "xuper-focuz",
+      "name": "Xuper Focuz",
+      "version": "4.34.4",
+      "file": "Xuper-Focuz.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Xuper-Focuz.apk",
       "downloader_code": "",
       "downloader_url": "",
-      "package_name": "com.dpsteam.filmplus",
+      "package_name": "com.lite.fczx",
       "icon_url": "",
-      "needs_uninstall_first": false,
+      "needs_uninstall_first": true,
       "uninstall_image_url": ""
     },
     {
@@ -148,27 +159,14 @@
       "uninstall_image_url": ""
     },
     {
-      "id": "xuper-focuz",
-      "name": "Xuper Focuz",
-      "version": "4.34.4",
-      "file": "Xuper-Focuz.apk",
-      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Xuper-Focuz.apk",
+      "id": "downloader",
+      "name": "Downloader",
+      "version": "2.0.3-ForGoogleAndroidDevices",
+      "file": "Downloader.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Downloader.apk",
       "downloader_code": "",
       "downloader_url": "",
-      "package_name": "com.lite.fczx",
-      "icon_url": "",
-      "needs_uninstall_first": true,
-      "uninstall_image_url": ""
-    },
-    {
-      "id": "xuper-hydra-2",
-      "name": "Xuper Hydra 2",
-      "version": "4.99.20",
-      "file": "Xuper-Hydra-2.apk",
-      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Xuper-Hydra-2.apk",
-      "downloader_code": "",
-      "downloader_url": "",
-      "package_name": "com.android.mgstv",
+      "package_name": "com.esaba.downloader",
       "icon_url": "",
       "needs_uninstall_first": false,
       "uninstall_image_url": ""
@@ -178,7 +176,7 @@
   "updated": "2026-11-08",
   "logo_url": "",
   "logo_file": "logo.png — guarda tu logo en app/src/main/res/drawable/logo.png",
-  "mantenimiento_version": "1.9",
+  "mantenimiento_version": "1.10",
   "mantenimiento_apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/mantenimiento.apk",
   "mantenimiento_novedad": "Se hicieron mejoras a la app para que funcione mejor y más fluida."
 }
