@@ -26,7 +26,8 @@
       "package_name": "com.xuper.netxxus",
       "icon_url": "",
       "needs_uninstall_first": false,
-      "uninstall_image_url": ""
+      "uninstall_image_url": "",
+      "en_mantenimiento": true
     },
     {
       "id": "vegeta-tv",
@@ -52,7 +53,8 @@
       "package_name": "com.xuper.wiwyxuper",
       "icon_url": "",
       "needs_uninstall_first": false,
-      "uninstall_image_url": ""
+      "uninstall_image_url": "",
+      "en_mantenimiento": true
     },
     {
       "id": "plpro",
@@ -144,13 +146,39 @@
       "icon_url": "",
       "needs_uninstall_first": false,
       "uninstall_image_url": ""
+    },
+    {
+      "id": "xuper-focuz",
+      "name": "Xuper Focuz",
+      "version": "4.34.4",
+      "file": "Xuper-Focuz.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Xuper-Focuz.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": "com.lite.fczx",
+      "icon_url": "",
+      "needs_uninstall_first": true,
+      "uninstall_image_url": ""
+    },
+    {
+      "id": "xuper-hydra-2",
+      "name": "Xuper Hydra 2",
+      "version": "4.99.20",
+      "file": "Xuper-Hydra-2.apk",
+      "apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/Xuper-Hydra-2.apk",
+      "downloader_code": "",
+      "downloader_url": "",
+      "package_name": "com.android.mgstv",
+      "icon_url": "",
+      "needs_uninstall_first": false,
+      "uninstall_image_url": ""
     }
   ],
   "list_url": "https://raw.githubusercontent.com/eddynariob-create/mis-apks/main/apps.json",
   "updated": "2026-11-08",
   "logo_url": "",
   "logo_file": "logo.png — guarda tu logo en app/src/main/res/drawable/logo.png",
-  "mantenimiento_version": "1.8",
+  "mantenimiento_version": "1.9",
   "mantenimiento_apk_url": "https://github.com/eddynariob-create/mis-apks/releases/download/V1/mantenimiento.apk",
   "mantenimiento_novedad": "Se hicieron mejoras a la app para que funcione mejor y más fluida."
 }
